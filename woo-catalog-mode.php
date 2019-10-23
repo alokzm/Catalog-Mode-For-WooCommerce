@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Catalog Mode For WooCommerce
-Plugin URI: https://zetamatic.com
+Plugin URI: https://profiles.wordpress.org/alokzm/
 Description: The plugin allows store owners to hide add to cart button. Product prices, cart and checkout. Which makes your store as a catalog mode.
 Version: 0.1
-Author: zetamatic
-Author URI: https://zetamatic.com
+Author: Alok
+Author URI: https://profiles.wordpress.org/alokzm/
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
