@@ -1,5 +1,5 @@
 === Catalog Mode For WooCommerce ===
-Contributors: zetamatic, alokzm
+Contributors: alokzm
 Tags: wooocmmerce catalog mode, catalog mode, product listing product catalog mode, product coming soon, product catalog mode, woo catalog mode
 Requires at least: 0.1
 Tested up to: 5.2
